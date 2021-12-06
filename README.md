@@ -6,9 +6,9 @@
 -> 
 ### Module 3: Neural Networks with TensorFlow
 -> 
-### Module 4: Deep Computer Vision - Convolutional Neural Networks
+### Module 4: Deep Computer Vision - Convolutional Neural Networks (CNN)
 -> 
-### Module 5: Natural Language Processing with RNNs
+### Module 5: Natural Language Processing with Recurrent neural network (RNNs)
 -> 
 ### Module 6: Reinforcement Learning with Q-Learning
 -> 
