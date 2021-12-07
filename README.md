@@ -20,17 +20,18 @@ Unsupervised learning is a type of machine learning in which the algorithm is no
 ### 3. Reinforcement learning
 Reinforcement learning is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximize the notion of cumulative reward. Reinforcement learning is one of three basic machine learning paradigms, alongside supervised learning and unsupervised learning.
 
-
 # Deep learning (DL)
 A form of machine learning that uses a layered representation of data.
 It’s a technique of ML which uses the concept of neurons to learn from data. 
 
 
-<img width="672" alt="ai-ml-nn-dl" src="https://user-images.githubusercontent.com/57554932/144938566-66a7c84f-cdc4-4bbb-b0e3-3d672f3a6787.png">
+# Module 1: Introduction to TensorFlow
+TensorFlow is a free and open-source software library for machine learning and artificial intelligence. It can be used across a range of tasks but has a particular focus on the training and inference of deep neural networks.
 
+TensorFlow has two main components that we will try to understand
+1. Graphs
+2. Sessions
 
-### Module 1: Introduction to TensorFlow
--> 
 ### Module 2: Core Learning Algorithms
 -> 
 ### Module 3: Neural Networks with TensorFlow
