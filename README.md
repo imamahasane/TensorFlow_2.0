@@ -31,6 +31,11 @@ TensorFlow is a free and open-source software library for machine learning and a
 TensorFlow has two main components that we will try to understand
 1. Graphs
 2. Sessions
+### Tensors
+Tensors are multi-dimensional arrays with a uniform type (called a dtype). You can see all supported dtypes at tf.dtypes.DType.
+
+If you're familiar with NumPy, tensors are (kind of) like np.arrays.
+
 
 ### Module 2: Core Learning Algorithms
 -> 
